@@ -1,0 +1,5 @@
+.vscode/
+.DS_Store
+experiments/
+__pycache__/
+*.pyc
